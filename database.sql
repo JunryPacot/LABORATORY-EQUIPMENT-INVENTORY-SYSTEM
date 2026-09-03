@@ -1,6 +1,6 @@
 -- =========================================================
 -- LABORATORY EQUIPMENT INVENTORY SYSTEM
--- Database SQL Import Script for Shared Hosting / InfinityFree
+-- Database SQL Hosting / InfinityFree
 -- =========================================================
 
 DROP TABLE IF EXISTS `equipment`;
